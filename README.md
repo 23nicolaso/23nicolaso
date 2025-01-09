@@ -1,4 +1,7 @@
-# I'm a French/Korean college student studying computer science.
+# 💫 About Me:
+I'm Nicolas, a french/korean student at NYU Tandon graduating in 2027!<br>I'm currently exploring the uses generative AI. 
+
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-ollivier) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@spiritualhealer117) 
 
 # 💻 Tech Stack:
