@@ -1,5 +1,4 @@
-# 💫 Bonjour, I'm Nicolas, a French + Korean Developer 
-## 🌐 Socials:
+# 💫 Hello, I'm Nicolas, a French + Korean Developer! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-ollivier) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@spiritualhealer117) 
 
 # 💻 Tech Stack:
