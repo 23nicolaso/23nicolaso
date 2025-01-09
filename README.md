@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at NYU Tandon graduating in 2027!<br>I'm currently exploring the uses generative AI. 
+I'm a student at NYU Tandon graduating in 2027!
 
 
 ## 🌐 Socials:
