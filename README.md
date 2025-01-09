@@ -1,4 +1,4 @@
-# I'm Nicolas, a French/Korean college student studying computer science.
+# I'm a French/Korean college student studying computer science.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-ollivier) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@spiritualhealer117) 
 
 # 💻 Tech Stack:
