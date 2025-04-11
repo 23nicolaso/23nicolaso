@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Nicolas, a french/korean student at NYU Tandon graduating in 2027!<br>
+I'm Nicolas, a comp sci student at NYU Tandon graduating in 2027!
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-ollivier) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@spiritualhealer117) 
