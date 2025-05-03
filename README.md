@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Nicolas, a comp sci student at NYU Tandon graduating in 2027!
+I'm Nicolas, a local LLM enthusiast and college student at NYU graduating in 2027!
 <br>
 
 ## 🌐 Socials:
