@@ -11,7 +11,7 @@ Right now, I'm diving deep into the world of **Generative AI**, exploring the va
 
 * **Local LLMs:** Experimenting with models like Gemma, Phi, Llama, Mistral, Qwen.
 * **Generative AI:** Exploring the use of generative AI to accelerate game development.
-* **Prototyping New Ideas:** Leveraging AI to rapidly build experimental projects and test ideas!
+* **Prototyping:** Leveraging AI to build exciting and experimental projects!
 
 ### 💻 My Tech Stack
 
