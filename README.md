@@ -1,8 +1,9 @@
 # Hi there, I'm Nicolas 👋
 
-My coding journey began at the age of 8 when I downloaded the Scratch game engine, and I've been passionate about building and creating with technology ever since.
+My coding journey began at the age of 8 when I downloaded the Scratch game engine!
+I enjoy experimenting with the capabilities of new technologies and making cool stuff.
 
-Right now, I'm diving deep into the world of **Generative AI**, exploring the vast capabilities of Local LLMs and building new applications with them.
+Right now, I'm diving deep into the world of **Generative AI**, exploring the vast capabilities of Local LLMs and building new applications with them!
 <br>
 
 ---
